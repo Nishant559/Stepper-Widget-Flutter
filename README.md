@@ -1,6 +1,6 @@
-# sketchers
+# Stepper Widget
 
-Sketches your photo
+
 
 ## Getting Started
 
