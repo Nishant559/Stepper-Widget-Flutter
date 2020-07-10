@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "855134567804",
+    "firebase_url": "https://sketchers-a7b69.firebaseio.com",
+    "project_id": "sketchers-a7b69",
+    "storage_bucket": "sketchers-a7b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855134567804:android:dcbcda27e234fbb4d8f8f9",
+        "android_client_info": {
+          "package_name": "com.photo.sketchers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855134567804-77ons6img60gbcl7sg80eup58ck8njql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk43RZyUqRCRxUfny7RGHNflbYCNGAETs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855134567804-77ons6img60gbcl7sg80eup58ck8njql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
